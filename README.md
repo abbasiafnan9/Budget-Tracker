@@ -14,7 +14,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 - Mongodb
 - React
 
-## Look
+## Deployed Link
 https://aqueous-bastion-21207.herokuapp.com/
 
 ### Questions
